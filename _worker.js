@@ -16,15 +16,9 @@ let scu = 'https://url.v1.mk/sub';  // 订阅转换地址
 const directDomains = [
     { name: "dx.qianxiu.dpdns.org", domain: "lt.qianxiu.dpdns.org" },
     { domain: "yd.qianxiu.dpdns.org" },
-    { domain: "bestcf.top" },
-    { domain: "cdn.2020111.xyz" },
-    { domain: "cf.0sm.com" },
-    { domain: "cf.090227.xyz" },
-    { domain: "cf.zhetengsha.eu.org" },
-    { domain: "cfip.1323123.xyz" },
-    { domain: "cloudflare-ip.mofashi.ltd" },
-    { domain: "cf.877771.xyz" },
-    { domain: "xn--b6gac.eu.org" }
+    { domain: "mfa.gov.ua" },
+    { domain: "www.shopify.com" },
+    { domain: "www.visa.cn" }
 ];
 
 // 默认优选IP来源URL
