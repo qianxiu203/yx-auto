@@ -14,8 +14,8 @@ let scu = 'https://url.v1.mk/sub';  // 订阅转换地址
 
 // 默认优选域名列表
 const directDomains = [
-    { name: "cloudflare.182682.xyz", domain: "cloudflare.182682.xyz" },
-    { domain: "freeyx.cloudflare88.eu.org" },
+    { name: "dx.qianxiu.dpdns.org", domain: "lt.qianxiu.dpdns.org" },
+    { domain: "yd.qianxiu.dpdns.org" },
     { domain: "bestcf.top" },
     { domain: "cdn.2020111.xyz" },
     { domain: "cf.0sm.com" },
